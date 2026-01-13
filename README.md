@@ -1,6 +1,7 @@
+<h3 align="center">👁️ 3145+ Total Views</h3>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=elysiummachines&style=flat&color=blue"
+    src="https://komarev.com/ghpvc/?username=elysiummachines&color=blue"
     height="40"
   />
 </p>
