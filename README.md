@@ -1,4 +1,4 @@
-<h3 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 Ⓥⓘⓢⓘⓣⓞⓡⓢ Ⓒⓞⓤⓝⓣ</h3> 
+<h3 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 Ｖｉｓｉｔｏｒｓ Ｃｏｕｎｔ</h3> 
 
 ---
 
@@ -6,13 +6,13 @@
   <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
 </p>
 
-### 🌍 🄹🄾🅄🅁🄽🄴🅈
+### 🌍 Ｊｏｕｒｎｅｙ
 ---
 
 ### My name is Levi, I build, test, and tweak
 
 
-### 🧠 𝕤𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 🛠️
+### 🧠 Ｓｋｉｌｌｓ & Ｔｏｏｌｓ 🛠️
 ---
 
 <div align="center">
@@ -56,7 +56,7 @@
   </table>
 </div>
 
-### 🎯 🄰🄲🅃🄸🅅🄸🅃🄸🄴🅂 🄰🄽🄳 🄲🄾🄽🅃🄰🄲🅃 ✉️
+### 🎯 ＡＣＴＩＶＩＴＩＥＳ ＡＮＤ ＣＯＮＴＡＣＴ ✉️
 ---
  
 <div align="center">
@@ -131,7 +131,7 @@
 </div>
 
 
-### 🏗️ 🄸🄽🄵🅁🄰🅂🅃🅁🅄🄲🅃🅄🅁🄴 🄰🄽🄳 🅂🄴🅃🅄🄿 💻
+### 🏗️ INFRASTRUCTURE AND SETUP 💻
 ---
 
 <p align="center">
