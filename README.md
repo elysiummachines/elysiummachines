@@ -7,9 +7,6 @@
 
 ---
 
-### 🌍 Ｊｏｕｒｎｅｙ: My name is Levi, I build, test, and tweak custom liquied cooled Servers and Computers, and love coding
----
-
 ### 🧠 Ｓｋｉｌｌｓ & Ｔｏｏｌｓ 🛠️
 <div align="center">
   <table>
