@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=elysiummachines.visitors&left_color=black&right_color=blue"
-    style="height: 40px;"
+    src="https://komarev.com/ghpvc/?username=elysiummachines&style=flat&color=blue"
+    height="40"
   />
 </p>
 
