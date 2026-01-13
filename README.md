@@ -6,11 +6,11 @@
   />
 </p>
 
----
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
 </p>
+
+---
 
 ### 🧠 Ｓｋｉｌｌｓ & Ｔｏｏｌｓ 🛠️
 <div align="center">
@@ -128,8 +128,10 @@
 
 </div>
 
+---
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=footer" style="width: 1500px;">
 </p>
 
----
+
