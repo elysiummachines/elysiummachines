@@ -7,15 +7,10 @@
 
 ---
 
-### 🌍 Ｊｏｕｒｎｅｙ
+### 🌍 Ｊｏｕｒｎｅｙ: My name is Levi, I build, test, and tweak custom liquied cooled Servers and Computers, and love coding
 ---
-
-### My name is Levi, I build, test, and tweak
-
 
 ### 🧠 Ｓｋｉｌｌｓ & Ｔｏｏｌｓ 🛠️
----
-
 <div align="center">
   <table>
     <tr>
@@ -57,9 +52,9 @@
   </table>
 </div>
 
-### 🎯 ＡＣＴＩＶＩＴＩＥＳ ＡＮＤ ＣＯＮＴＡＣＴ ✉️
 ---
- 
+### 🎯 ＡＣＴＩＶＩＴＩＥＳ ＡＮＤ ＣＯＮＴＡＣＴ ✉️
+
 <div align="center">
   
   <!-- Looking to Collaborate -->
@@ -131,9 +126,9 @@
 
 </div>
 
+---
 
 ### 🏗️ INFRASTRUCTURE AND SETUP 💻
----
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
