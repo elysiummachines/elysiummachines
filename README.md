@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://visitor-badge.laobi.icu/badge?page_id=elysiummachines.visitors&left_color=black&right_color=blue"
-    width="220"
+    style="height: 40px;"
   />
 </p>
 
