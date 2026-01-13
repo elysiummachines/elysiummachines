@@ -75,14 +75,14 @@
     </tr>
   </table>
 
-  <!-- Currently Learning -->
-  <table>
+ <!-- Currently Learning -->
+ <table>
     <tr>
       <td><img alt="I'm currently learning" src="https://img.shields.io/badge/I'm%20currently%20learning-darkgray?style=for-the-badge&labelWidth=200" height="30" align="center"/></td>
-      <td><a href="https://docs.docker.com/engine/install/" title="Docker Engine"><img alt="Docker Engine" src="https://img.shields.io/badge/Docker%20Engine-0db7ed?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
-      <td><a href="https://docs.docker.com/engine/swarm/" title="Swarm"><img alt="Swarm" src="https://img.shields.io/badge/Swarm-1d78c1?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
-      <td><a href="https://docs.docker.com/compose/" title="Compose"><img alt="Compose" src="https://img.shields.io/badge/Compose-1c91ed?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
-      <td><a href="https://www.portainer.io/academy" title="Portainer"><img alt="Portainer" src="https://img.shields.io/badge/Portainer-0073aa?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
+      <td><a href="https://kubernetes.io/" title="Kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
+      <td><a href="https://react.dev/" title="React"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
+      <td><a href="https://www.rust-lang.org/" title="Rust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
+      <td><a href="https://yarnpkg.com/" title="Yarn"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
     </tr>
   </table>
 
