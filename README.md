@@ -1,10 +1,11 @@
-<h3 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 Ｖｉｓｉｔｏｒｓ Ｃｏｕｎｔ</h3> 
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=elysiummachines.visitors&left_color=black&right_color=blue"
+    width="220"
+  />
+</p>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
-</p>
 
 ### 🌍 Ｊｏｕｒｎｅｙ
 ---
