@@ -94,7 +94,7 @@
   <table>
     <tr>
       <td><img alt="How to reach me" src="https://img.shields.io/badge/How%20to%20reach%20me-darkgray?style=for-the-badge&labelWidth=200" height="30" align="center"/></td>
-      <td><a href="mailto:alprojects1@pm.me" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
+      <td><a href="mailto:levi@elysiummachines.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
       <td><a href="https://discord.com" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-g1zm07-5865F2?style=for-the-badge&labelWidth=200" height="30" align="center"/></a></td>
     </tr>
   </table>
